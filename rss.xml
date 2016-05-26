@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Technology for the Future]]></title>
+        <description><![CDATA[Technology for the Future]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 03:29:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Technology for your business]]></title>
+            <description><![CDATA[<article><h1>Technology for your business</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dc7422d5e6911c0ab82e26b5ba8232f3a97dd66.jpg"></article>]]></description>
+            <link>undefinedtechnology-for-your-business/index.html</link>
+            <guid isPermaLink="false">9b29048e-6f68-4b8a-bf43-72f6bc95e720</guid>
+            <pubDate>Thu, 26 May 2016 03:29:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
