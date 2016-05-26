@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Technology for the Future]]></title>
         <description><![CDATA[Technology for the Future]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/w-corporate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 03:29:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 03:42:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/w-corporate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology for your business]]></title>
             <description><![CDATA[<article><h1>Technology for your business</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dc7422d5e6911c0ab82e26b5ba8232f3a97dd66.jpg"></article>]]></description>
-            <link>undefinedtechnology-for-your-business/index.html</link>
+            <link>https://thegrid.ai/w-corporate/technology-for-your-business/index.html</link>
             <guid isPermaLink="false">9b29048e-6f68-4b8a-bf43-72f6bc95e720</guid>
             <pubDate>Thu, 26 May 2016 03:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9160da5d-b0ca-457b-9dd9-4bda1cd2f48a.jpg">]]></description>
+            <link>https://thegrid.ai/w-corporate/the-industry-of-cigarretes/index.html</link>
+            <guid isPermaLink="false">7ccc250d-3794-412c-af93-34335f91fd58</guid>
+            <pubDate>Thu, 26 May 2016 03:42:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
